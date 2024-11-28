@@ -1,0 +1,12 @@
+.loginRightSectionBg {
+	box-sizing: border-box;
+	position: absolute;
+	width: 270px;
+	height: 324px;
+	left: calc(50% - 332px / 2 + 300px);
+	top: calc(50% - 380px / 2);
+	background: rgba(255, 255, 255, 0.21);
+	border: 1px solid rgba(255, 255, 255, 0.52);
+	backdrop-filter: blur(6.8px);
+	border-radius: 46px;
+}
